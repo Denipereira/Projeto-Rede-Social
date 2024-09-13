@@ -23,6 +23,7 @@ iframe{
     margin: auto;
     margin-top: -547px;
     border-radius: 2px;
+    scrollbar-color: blue;
 }
 
 ul{
